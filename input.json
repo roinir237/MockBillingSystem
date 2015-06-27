@@ -1,0 +1,7 @@
+{
+  "clientId": 123,
+  "charges": {
+    "hoursPerDay": [0, 7, 6, 4, 9, 0, 0],
+    "hourlyRate": 100
+  }
+}
